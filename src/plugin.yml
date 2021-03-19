@@ -1,0 +1,8 @@
+name: ReportarPlugin
+version: 1.0
+author: yonatan
+main: me.yonatan.reportar.Main
+commands:
+  reportar:
+  reports:
+deppends: [Discord_Bot_API_-_V3.0]
